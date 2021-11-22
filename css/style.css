@@ -1,0 +1,40 @@
+body{
+    background-color: lightslategrey;
+}
+.header{
+    text-align: center;
+    }
+.navlist{
+    color: purple;
+}
+.abt{
+    color: yellowgreen;
+}
+.p{
+    color: red;
+}
+.my{
+    color: blueviolet;
+}
+.f{
+    color:lime;
+    font-size: 20px;
+}
+.I{
+    color:green;
+}
+.T{
+    Color:orange;
+    font-size: 20px;
+}
+.H{
+    color:magenta
+}
+.go a {
+    text-decoration: none;
+    color: maroon;
+}
+
+.my li{
+    color: mediumblue;
+}
